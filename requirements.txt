@@ -1,0 +1,10 @@
+pandas
+numpy
+pyparsing
+sklearn
+flask
+flask_restful
+matplotlib
+flask-marshmallow
+pytest
+requests
